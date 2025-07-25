@@ -1,3 +1,4 @@
+  @import url('https://fastly.jsdelivr.net/npm/galmuri@latest/dist/galmuri.css');
 
 /* 기본 초기화 */
 * {
@@ -13,7 +14,6 @@ body {
   color: #a6d854; /* 연두색 계열 */
   padding: 20px;
   user-select: none;
-  @import url('https://fastly.jsdelivr.net/npm/galmuri@latest/dist/galmuri.css');
 }
 
 /* 헤더 */
